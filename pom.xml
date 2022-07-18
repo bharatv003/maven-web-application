@@ -105,7 +105,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Maven web app snapshot</name>
-	      <url>http://54.89.146.135:8081/repository/maven-webapp-snapshot/</url>
+	      <url>http://54.89.146.135:8081/repository/maven-webapp-snapshot</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
